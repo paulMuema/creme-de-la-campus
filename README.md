@@ -1,2 +1,2 @@
 # creme-de-la-campus
-A website for my Software Configuration Class
+A University School Website for my Software Configuration Class
