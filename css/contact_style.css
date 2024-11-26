@@ -4,11 +4,13 @@
     font-family: myFirstFont;
     src: url(../Poppins/Poppins-Regular.ttf);
  }
- 
+
+
     @font-face {
      font-family: bold;
      src: url(../Poppins/Poppins-Bold.ttf);
     }
+
  *{
     margin: 0;
     padding: 0;
@@ -21,6 +23,8 @@
       width: 5px !important;
       height: 5px !important;
   }
+
+
   body::-webkit-scrollbar-track {
       background: #3838387c !important;
   }
