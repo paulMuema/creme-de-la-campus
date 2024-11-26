@@ -7,6 +7,7 @@
     /* border: 1px solid yellow; */
 }
 
+
 @font-face {
     font-family: myFirstFont;
     src: url(../Poppins/Poppins-Regular.ttf);
@@ -16,6 +17,7 @@
     src: url(../Poppins/Poppins-Bold.ttf);
 }
 
+
 @font-face {
     font-family: secound;
     src: url(../Poppins/Poppins-Bold.ttf);
@@ -24,6 +26,7 @@
 h1{
     font-family: bold;
 }
+
 
 body{
     font-family: myFirstFont,Verdana, Geneva, Tahoma, sans-serif;
